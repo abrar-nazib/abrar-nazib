@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazib Abrar</h1>
+<h1 align="center">Hi, I'm Nazib Abrar</h1>
 <h3 align="center">A Mechatronics Engineering Student at RUET and a Programmer</h3>
 
 - 🔭 I’m currently working on [CORTEX-Robotic Arm Controller](https://github.com/abrar-nazib/cortex)
