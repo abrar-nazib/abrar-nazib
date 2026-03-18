@@ -1,113 +1,136 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   NAZIB ABRAR · GitHub Profile                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                     NAZIB ABRAR · GitHub Profile                  -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
- ███╗   ██╗ █████╗ ███████╗██╗██████╗      █████╗ ██████╗ ██████╗  █████╗ ██████╗
- ████╗  ██║██╔══██╗╚══███╔╝██║██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
- ██╔██╗ ██║███████║  ███╔╝ ██║██████╔╝    ███████║██████╔╝██████╔╝███████║██████╔╝
- ██║╚██╗██║██╔══██║ ███╔╝  ██║██╔══██╗    ██╔══██║██╔══██╗██╔══██╗██╔══██║██╔══██╗
- ██║ ╚████║██║  ██║███████╗██║██████╔╝    ██║  ██║██████╔╝██║  ██║██║  ██║██║  ██║
- ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝╚═════╝    ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Mechatronics+Engineer+%F0%9F%A4%96;Robotics+%26+AI+Enthusiast+%F0%9F%A7%A0;Web+Security+Researcher+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Nazib+Abrar;Embedded+Systems+%2B+Edge+AI+Engineer;Founder+%40+Cortex+Technologies;Robotics+%7C+Linux+%7C+Bare+Metal" alt="Typing SVG" />
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abrar_nazib)
+**Embedded Systems & Edge AI Engineer · Co-Founder @ [Cortex Technologies](https://cortextech.dev)**
+
+*We engineer the "Brain" for the "Body" — bridging AI algorithms and real-world hardware.*
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar-nazib)
+[![CortexTech](https://img.shields.io/badge/CortexTech-cortextech.dev-00D9FF?style=for-the-badge&logo=circuitverse&logoColor=white)](https://cortextech.dev)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/abrarnazib)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/@cortex-technologies)
-[![Hackster](https://img.shields.io/badge/Hackster.io-%232E9FE6.svg?style=for-the-badge&logo=hackster&logoColor=white)](https://www.hackster.io/abrarnazib)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/@cortexrobotics)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarnazib@gmail.com)
 
 </div>
 
 ---
 
-## 🧬 About Me
+## `$ whoami`
 
-```python
-class NazibAbrar:
-    def __init__(self):
-        self.name        = "Nazib Abrar"
-        self.role        = "Mechatronics Engineering Student @ RUET"
-        self.location    = "Bangladesh 🇧🇩"
-        self.focus       = ["Robotics", "Computer Vision", "Machine Learning", "Web Security"]
-        self.current     = "Building CORTEX — a robotic arm controller system"
-        self.learning    = ["OpenCV", "Deep Learning", "Neural Networks"]
-        self.ask_me      = ["Arduino", "Image Processing", "Web App Security"]
-        self.fun_fact    = "I build robots by day and break websites at night (legally 🔐)"
-
-    def __str__(self):
-        return f"Engineer who believes hardware + software = magic ✨"
+```yaml
+name:       Nazib Abrar
+degree:     BSc Mechatronics Engineering @ RUET (2026)
+company:    Cortex Technologies — IoT & AIoT Agency (cortextech.dev)
+domain:
+  - Embedded Linux (Yocto, custom BSPs, kernel patching)
+  - Bare Metal Firmware (STM32, ESP32, custom device drivers)
+  - Edge AI & TinyML (TensorFlow Lite, YOLO, PyTorch)
+  - Computer Vision & Robotics (OpenCV, Kinematics, ROS)
+  - Full-Stack Backend (Django, FastAPI, Node.js, WebSockets, RTMP)
+currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 ```
 
 ---
 
-## 🚀 Current Mission
+## 💼 Experience
 
-<div align="center">
+<details>
+<summary><b>🔩 Embedded Systems Engineer (Contract) — Aethes Armor, USA &nbsp;·&nbsp; Mar 2025 – Present</b></summary>
 
-| 🔭 Working On | 🌱 Learning | 🎯 Goals 2025 |
-|:---:|:---:|:---:|
-| [CORTEX Robotic Arm](https://github.com/abrar-nazib/cortex) | Deep Learning & CV | Publish ML Research |
-| Computer Vision Projects | TensorFlow Advanced | Contribute to Robotics OSS |
-| Web Security Research | Neural Architecture Design | Build Autonomous Robots |
+<br/>
 
-</div>
+- Engineered a **Debian-based custom embedded Linux distribution** for a security locker device using the **Yocto Project** — wrote custom device drivers and patched the Linux kernel
+- Developed core firmware with **WebRTC** for live video-calling and **WebSockets** for real-time peripheral control
+- Integrated **TensorFlow Lite** computer vision and AI pipelines for intelligent device operations
+- Built the complete **Django** web backend and server infrastructure
+- Assisted in PCB design reviews and Bill of Materials (BOM) generation
+
+</details>
+
+<details>
+<summary><b>⚙️ Junior Software Developer (Part-Time) — FronTech Limited &nbsp;·&nbsp; Jun 2023 – Oct 2025</b></summary>
+
+<br/>
+
+- Wrote **C++ firmware libraries** for ESP32-based development boards with Arduino shield compatibility
+- Led backend of a scalable alumni management system — **Django REST Framework + PostgreSQL + RabbitMQ + Celery**, deployed via **Docker microservices**
+- Led backend of **[smartschoolbus.gov.bd](https://smartschoolbus.gov.bd)** — a B2B platform (Node.js, Express, MongoDB) serving **2,500+ active users**
+- Managed VPS infrastructure: **Nginx** routing, CRON-based automated DB backups
+- Implemented live video streaming in **RTMP** and **HLS** protocols
+
+</details>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🚀 Selected Projects
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **[CORTEX Robotic Arm Controller](https://cortextech.dev/work/cortex-a-3dof-robotic-arm-controller-software/)** | PyQT · OpenCV · Matplotlib | Forward/Inverse Kinematics, 3D simulation GUI, custom hardware stabilization algo (+5% load capacity) |
+| **CORTEX-Health: AI for Medical Practitioners** | PyTorch · FastAPI · OpenCV · Flutter | 3× YOLOv8 models trained for X-ray/CT disease diagnosis; FastAPI inference server |
+| **Aethes Armor Security Device** | Yocto · WebRTC · TFLite · Django | Custom Linux distro, kernel drivers, real-time CV on embedded hardware |
+| **Smart School Bus System** | Node.js · MongoDB · Express | Safety & fleet management for 2,500+ users, govt. B2B deployment |
+
+> 🏢 More case studies at **[cortextech.dev/work](https://cortextech.dev/work/)**
+
+---
+
+## 🧠 Tech Stack
 
 <div align="center">
 
-### ⚡ Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Embedded & Hardware
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto_Project-5C9A00?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### AI / ML / Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFAA?style=for-the-badge&logo=yolo&logoColor=black)
+
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 AI / ML / Robotics
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🌐 Web Stack
+### Backend & Infrastructure
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🔧 Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Battlefield
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrar-nazib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-nazib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-nazib&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-nazib&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
@@ -119,53 +142,66 @@ class NazibAbrar:
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Awards
 
-<div align="center">
+```
+🥇  Champion            — Kibo RPC Bangladesh Regional Round 2024
+                          (1st in Bangladesh; CV navigation for zero-gravity free-flying robot)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abrar-nazib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+🌍  Global 11th Place   — International Rover Design Challenge 2023
+                          (Mars terrain segmentation with SAM + inverse kinematics for rover arm)
 
-</div>
+🏅  Finalist (14th/400+)— Code Samurai 2024 Hackathon
+                          (End-to-end solution for municipal solid waste management)
 
----
+🥈  First Runner-Up     — Phitron Show Your Project Contest 2022
+                          (CORTEX Robotic Arm Controller Software)
 
-## 🔐 Competitive Coding Arenas
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/abrar-nazib)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/0xab.rar)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/abrarnazib)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@abrarnazib)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12513413)
-
-</div>
+🥇  Champion            — DRMC Tech Carnival 2020
+                          (Line Follower Robot racing — C++ LFR controller "Thunder")
+```
 
 ---
 
-## 📡 Latest Articles on Hackster
+## 🏢 Cortex Technologies
 
-<!-- HACKSTER-BLOG:START — auto-update with GitHub Actions if configured -->
-> 🔗 Check out my hardware & robotics write-ups at **[hackster.io/abrarnazib](https://www.hackster.io/abrarnazib)**
-<!-- HACKSTER-BLOG:END -->
+> I'm co-founding **[Cortex Technologies](https://cortextech.dev)** — an IoT & AIoT engineering agency based in Dhaka with global remote operations.
+> We specialize in deploying Edge AI on constrained hardware: STM32, ESP32, and custom embedded Linux systems.
+
+| Capability | What We Build |
+|---|---|
+| 🤖 Embedded AI | TinyML on MCUs, TFLite/ONNX quantization, Edge Impulse |
+| 🔭 Computer Vision | YOLO pipelines, defect detection, real-time tracking |
+| 🔌 Industrial IoT | MQTT telemetry, OTA updates, fleet management |
+| 🦾 Robotics | Inverse kinematics, ROS 2, PID control loops |
+| ☁️ Backend & API | Django/FastAPI, WebSockets, Docker microservices |
+
+📖 Read our engineering blogs → **[cortextech.dev/blogs](https://cortextech.dev/blogs/)**
+
+---
+
+## 🎓 Certifications & Problem Solving
+
+- 📜 **Machine Learning Specialization** — Stanford Online (Sep 2023)
+- 💻 **LeetCode** — 85+ problems solved (Neetcode.io roadmap) · [Profile](https://www.leetcode.com/abrar-nazib)
+- ⚔️ **Codeforces** · [0xab.rar](https://codeforces.com/profile/0xab.rar) &nbsp;|&nbsp; **CodeChef** Rating: 1550
+- 🏆 **HackerRank** · [abrarnazib](https://www.hackerrank.com/abrarnazib) &nbsp;|&nbsp; **Stack Overflow** · [Profile](https://stackoverflow.com/users/12513413)
 
 ---
 
 <div align="center">
-
-### 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abrar-nazib&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║   "The best way to predict the future is to build it."   ║
-║                           — Alan Kay                     ║
-╚══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║  Software is easy. Hardware is hard. We do both.          ║
+║                            — Cortex Technologies          ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-⭐ **If you like my work, consider starring my repos!** ⭐
+**⭐ Star a repo if something's useful · 🤝 Open to collaboration on Embedded AI & Robotics**
 
 </div>
