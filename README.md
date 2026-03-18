@@ -10,7 +10,6 @@
 
 **Embedded Systems & Edge AI Engineer · Co-Founder @ [Cortex Technologies](https://cortextech.dev)**
 
-*We engineer the "Brain" for the "Body" — bridging AI algorithms and real-world hardware.*
 
 <br/>
 
@@ -29,47 +28,18 @@
 ```yaml
 name:       Nazib Abrar
 degree:     BSc Mechatronics Engineering @ RUET (2026)
-company:    Cortex Technologies — IoT & AIoT Agency (cortextech.dev)
+company:    Cortex Technologies
 domain:
   - Embedded Linux (Yocto, custom BSPs, kernel patching)
   - Bare Metal Firmware (STM32, ESP32, custom device drivers)
   - Edge AI & TinyML (TensorFlow Lite, YOLO, PyTorch)
   - Computer Vision & Robotics (OpenCV, Kinematics, ROS)
-  - Full-Stack Backend (Django, FastAPI, Node.js, WebSockets, RTMP)
+  - Web Backend (Django, FastAPI, Node.js, WebSockets, WebRTC, RTMP)
 currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 ```
 
 ---
 
-## 💼 Experience
-
-<details>
-<summary><b>🔩 Embedded Systems Engineer (Contract) — Aethes Armor, USA &nbsp;·&nbsp; Mar 2025 – Present</b></summary>
-
-<br/>
-
-- Engineered a **Debian-based custom embedded Linux distribution** for a security locker device using the **Yocto Project** — wrote custom device drivers and patched the Linux kernel
-- Developed core firmware with **WebRTC** for live video-calling and **WebSockets** for real-time peripheral control
-- Integrated **TensorFlow Lite** computer vision and AI pipelines for intelligent device operations
-- Built the complete **Django** web backend and server infrastructure
-- Assisted in PCB design reviews and Bill of Materials (BOM) generation
-
-</details>
-
-<details>
-<summary><b>⚙️ Junior Software Developer (Part-Time) — FronTech Limited &nbsp;·&nbsp; Jun 2023 – Oct 2025</b></summary>
-
-<br/>
-
-- Wrote **C++ firmware libraries** for ESP32-based development boards with Arduino shield compatibility
-- Led backend of a scalable alumni management system — **Django REST Framework + PostgreSQL + RabbitMQ + Celery**, deployed via **Docker microservices**
-- Led backend of **[smartschoolbus.gov.bd](https://smartschoolbus.gov.bd)** — a B2B platform (Node.js, Express, MongoDB) serving **2,500+ active users**
-- Managed VPS infrastructure: **Nginx** routing, CRON-based automated DB backups
-- Implemented live video streaming in **RTMP** and **HLS** protocols
-
-</details>
-
----
 
 ## 🚀 Selected Projects
 
@@ -183,7 +153,7 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 ## 🎓 Certifications & Problem Solving
 
 - 📜 **Machine Learning Specialization** — Stanford Online (Sep 2023)
-- 💻 **LeetCode** — 85+ problems solved (Neetcode.io roadmap) · [Profile](https://www.leetcode.com/abrar-nazib)
+- 💻 **LeetCode** —  [Profile](https://www.leetcode.com/abrar-nazib)
 - ⚔️ **Codeforces** · [0xab.rar](https://codeforces.com/profile/0xab.rar) &nbsp;|&nbsp; **CodeChef** Rating: 1550
 - 🏆 **HackerRank** · [abrarnazib](https://www.hackerrank.com/abrarnazib) &nbsp;|&nbsp; **Stack Overflow** · [Profile](https://stackoverflow.com/users/12513413)
 
@@ -195,12 +165,7 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  Software is easy. Hardware is hard. We do both.          ║
-║                            — Cortex Technologies          ║
-╚═══════════════════════════════════════════════════════════╝
-```
+
 
 **⭐ Star a repo if something's useful · 🤝 Open to collaboration on Embedded AI & Robotics**
 
