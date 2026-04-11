@@ -41,7 +41,7 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 ---
 
 
-## 🚀 Selected Projects
+## Selected Projects
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
@@ -50,11 +50,11 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 | **Aethes Armor Security Device** | Yocto · WebRTC · TFLite · Django | Custom Linux distro, kernel drivers, real-time CV on embedded hardware |
 | **Smart School Bus System** | Node.js · MongoDB · Express | Safety & fleet management for 2,500+ users, govt. B2B deployment |
 
-> 🏢 More case studies at **[cortextech.dev/work](https://cortextech.dev/work/)**
+> More case studies at **[cortextech.dev/work](https://cortextech.dev/work/)**
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -91,7 +91,7 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -101,7 +101,7 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 
 ---
 
-## 🏆 Achievements & Awards
+## Achievements & Awards
 
 ```
 🥇  Champion            — Kibo RPC Bangladesh Regional Round 2024
@@ -122,29 +122,29 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 
 ---
 
-## 🏢 Cortex Technologies
+## Cortex Technologies
 
 > I'm co-founding **[Cortex Technologies](https://cortextech.dev)** — an IoT & AIoT engineering agency based in Dhaka with global remote operations.
 > We specialize in deploying Edge AI on constrained hardware: STM32, ESP32, and custom embedded Linux systems.
 
 | Capability | What We Build |
 |---|---|
-| 🤖 Embedded AI | TinyML on MCUs, TFLite/ONNX quantization, Edge Impulse |
-| 🔭 Computer Vision | YOLO pipelines, defect detection, real-time tracking |
-| 🔌 Industrial IoT | MQTT telemetry, OTA updates, fleet management |
-| 🦾 Robotics | Inverse kinematics, ROS 2, PID control loops |
-| ☁️ Backend & API | Django/FastAPI, WebSockets, Docker microservices |
+| Embedded AI | TinyML on MCUs, TFLite/ONNX quantization, Edge Impulse |
+| Computer Vision | YOLO pipelines, defect detection, real-time tracking |
+| Industrial IoT | MQTT telemetry, OTA updates, fleet management |
+| Robotics | Inverse kinematics, ROS 2, PID control loops |
+| Backend & API | Django/FastAPI, WebSockets, Docker microservices |
 
-📖 Read our engineering blogs → **[cortextech.dev/blogs](https://cortextech.dev/blogs/)**
+Read our engineering blogs → **[cortextech.dev/blogs](https://cortextech.dev/blogs/)**
 
 ---
 
-## 🎓 Certifications & Problem Solving
+## Certifications & Problem Solving
 
-- 📜 **Machine Learning Specialization** — Stanford Online (Sep 2023)
-- 💻 **LeetCode** —  [Profile](https://www.leetcode.com/abrar-nazib)
-- ⚔️ **Codeforces** · [0xab.rar](https://codeforces.com/profile/0xab.rar) &nbsp;|&nbsp; **CodeChef** Rating: 1550
-- 🏆 **HackerRank** · [abrarnazib](https://www.hackerrank.com/abrarnazib) &nbsp;|&nbsp; **Stack Overflow** · [Profile](https://stackoverflow.com/users/12513413)
+- **Machine Learning Specialization** — Stanford Online (Sep 2023)
+- **LeetCode** —  [Profile](https://www.leetcode.com/abrar-nazib)
+- **Codeforces** · [0xab.rar](https://codeforces.com/profile/0xab.rar) &nbsp;|&nbsp; **CodeChef** Rating: 1550
+- **HackerRank** · [abrarnazib](https://www.hackerrank.com/abrarnazib) &nbsp;|&nbsp; **Stack Overflow** · [Profile](https://stackoverflow.com/users/12513413)
 
 ---
 
