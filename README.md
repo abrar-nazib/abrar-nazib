@@ -98,11 +98,10 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 <!-- Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=abrar-nazib&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=9CA3AF)
 
-<!-- Main Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrar-nazib&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=9CA3AF&include_all_commits=true&count_private=true)
+<br/><br/>
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-nazib&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=9CA3AF&hide=jupyter%20notebook)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abrar-nazib&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5C7&line=00E5C7&point=818CF8&area=true&area_color=00E5C7" alt="Activity Graph" />
+
 
 </div>
 
