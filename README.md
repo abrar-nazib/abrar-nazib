@@ -96,7 +96,7 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 <div align="center">
 
 <!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=abrar-nazib&theme=tokyo-night&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=9CA3AF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <br/><br/>
 
