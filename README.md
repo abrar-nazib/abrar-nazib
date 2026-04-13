@@ -95,8 +95,7 @@ currently:  Building an IoT/AIoT agency that deploys intelligence at the edge
 
 <div align="center">
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abrar-nazib" alt="GitHub Streak" /></a>
 
 <br/><br/>
 
